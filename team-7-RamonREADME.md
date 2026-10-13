@@ -1,0 +1,4 @@
+- Ramon Vazquez
+- We learned to work closely with related issues and to find creative solutions regarding users interacting with our branch incorrectly.
+- I worked on making the team1 branch and then finding the solution to move into a team 7 branch to avoid other teams from accidently adding wrong files incorrectly.
+- One example was when Team 4 decided to add their entire folder and content into our repo while we were trying to push our branch, which caused issues regarding which files were made by our teammmates instaed of from another team.
