@@ -1,4 +1,4 @@
-# Team 1: Git Commands Cheat Sheet
+# Team 7: Git Commands Cheat Sheet
 
 ## Members
 - Student 1: Ramon Vazquez
